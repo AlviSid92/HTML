@@ -46,3 +46,15 @@ p.second {
 p{
     color: blueviolet;
 }
+
+div .one{
+    text-align: center;
+}
+
+header .chat1 {
+    
+}
+
+body .chat1{
+    color: aqua;
+}
