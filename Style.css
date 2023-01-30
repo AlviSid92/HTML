@@ -1,0 +1,48 @@
+
+body{
+    padding: 4px;
+    background-color: bisque;
+}
+
+.wwrapper{
+    background-color: black;
+}
+
+header{
+    background-color: rgba(66, 66, 150, 0.151);
+    color: brown;
+    padding: 30px;
+    text-align: center;
+    font-size: 40px;
+}
+
+main{
+    font-size: 20px;
+}
+
+Footer{
+    background-color: rgb(30, 197, 30);
+    color: black;
+}
+img{
+    margin: 10px;
+    float: left;
+}
+
+h1{
+    text-align: center;
+    color: rgb(30, 7, 61);
+}
+
+ol{
+    padding-left: 400px;
+    margin: 40px;
+}
+
+p.second {
+    color: blue;
+}
+
+p{
+    color: blueviolet;
+}
