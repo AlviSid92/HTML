@@ -5,15 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="StyleChat.css">
+    <script src="./app.js"></script>
+    
 </head>
-<body class="chat1">
-    <header class="chat1">
-
+<body class="c1">  
+    <header class="c3">
         <h1>Чат</h1>
-        <input type="text">
-        <button>Отправить</button>
+        <input type="text" id="chat" placeholder="Введите ваше имя">
+        <button onclick="send()">Отправить</button>
+        <div id="mess"></div>
         
     </header>
+    <main class="c4">
+        <span id="result"></span>
+    </main>
 </body>
 </html>

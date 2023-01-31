@@ -1,14 +1,18 @@
 
-body{
+body {
     padding: 4px;
     background-color: bisque;
+    margin: auto;
 }
 
-.wwrapper{
-    background-color: black;
+.wrapper {
+    background-color: rgb(207, 197, 103);
+    width: 800;
+    margin: auto;
+
 }
 
-header{
+header {
     background-color: rgba(66, 66, 150, 0.151);
     color: brown;
     padding: 30px;
@@ -16,25 +20,29 @@ header{
     font-size: 40px;
 }
 
-main{
+main {
     font-size: 20px;
 }
 
-Footer{
+footer {
     background-color: rgb(30, 197, 30);
     color: black;
+    padding: 20px;
+    text-align: center;
+    margin: 2px;
+    font-size: 30px;
 }
-img{
+img {
     margin: 10px;
     float: left;
 }
 
-h1{
+h1 {
     text-align: center;
     color: rgb(30, 7, 61);
 }
 
-ol{
+ol {
     padding-left: 400px;
     margin: 40px;
 }
@@ -47,14 +55,7 @@ p{
     color: blueviolet;
 }
 
-div .one{
+div .one {
     text-align: center;
 }
 
-header .chat1 {
-    
-}
-
-body .chat1{
-    color: aqua;
-}
